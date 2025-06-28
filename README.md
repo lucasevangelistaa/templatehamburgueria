@@ -1,6 +1,6 @@
 # 🍽️ Cardápio Digital Interativo - WebApp
 
-![Screenshot do WebApp](/public/screenshot.png) <!-- Substitua com uma imagem real depois -->
+![Screenshot do WebApp](/public/preview.png)
 
 Este WebApp pode ser perfeito para seu negócio! Disponível por apenas **R$199,90**.  
 Garanta já o seu e leve sua marca para o digital com estilo e praticidade.
